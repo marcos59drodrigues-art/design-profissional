@@ -5,4 +5,4 @@ Objetivos
 - Organizar as atividades da disciplina.
 - Registrar a evolução durante o semestre
 - Autor
-Marcos Rodrigues
+Marcos Rodrigues.
